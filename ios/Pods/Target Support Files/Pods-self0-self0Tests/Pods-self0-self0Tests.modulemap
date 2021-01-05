@@ -1,0 +1,6 @@
+module Pods_self0_self0Tests {
+  umbrella header "Pods-self0-self0Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
